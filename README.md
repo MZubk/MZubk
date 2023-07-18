@@ -1,9 +1,9 @@
 
-### Olá! eu sou o Murillo Zubk 👋
+<h1>Olá! eu sou o Murillo Zubk 👋</h1>
 
 ![MZubk's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzubk&show_icons=true&theme=tokyonight)
 
-## Tecnologias que eu utilizo
+<h2>Tecnologias que eu utilizo</h2>
 
 <div style="display: inline_block"><br/>
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
