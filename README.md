@@ -12,7 +12,5 @@
     <img aling="center" alt="Boostrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div><br/>
 
-Apaixonado por tecnologia, e como a tecnologia pode mudar e melhorar a vida das pessoas<br/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzubk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
